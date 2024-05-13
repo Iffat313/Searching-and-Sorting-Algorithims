@@ -1,0 +1,3 @@
+﻿  LinearSearch.cpp
+C:\Users\iffat\Desktop\LinearSearch\LinearSearch\LinearSearch.cpp(19): warning C4715: 'LinearSearch': not all control paths return a value
+  LinearSearch.vcxproj -> C:\Users\iffat\Desktop\LinearSearch\x64\Debug\LinearSearch.exe
