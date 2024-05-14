@@ -1,0 +1,3 @@
+﻿  BinarySearch.cpp
+C:\Users\iffat\Desktop\Searching and sorting algorithims\BinarySearch\BinarySearch\BinarySearch.cpp(47): warning C4715: 'BinarySearch': not all control paths return a value
+  BinarySearch.vcxproj -> C:\Users\iffat\Desktop\Searching and sorting algorithims\BinarySearch\x64\Debug\BinarySearch.exe
