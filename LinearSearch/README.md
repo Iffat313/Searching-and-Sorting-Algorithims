@@ -1,0 +1,1 @@
+The average run time complexity for a linear search is linear time complexity or O(n). The best case is constant O(1), of course this occurs when the targeted element is the first element in the list. The worst case would be O(n).
