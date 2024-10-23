@@ -9,4 +9,4 @@ In this repository, we will look at various algorithims and how we can search an
 
 4. **What is Big O notation?:** Big O notation is what allows us to express the run time in a mathmatical way. However, it doesn't look at the input size but rather all cases. It will measure the run time as if the input were gradually increasing!
 
-5. **What is Growth Rate?:** Growth rate refers to how quick the runtime increases based on the given input size. 
+5. **What is Growth Rate?:** Growth rate refers to how quick the runtime increases or decreases as we gradually increase the input size or the value of the input. You can get a clear illustration of this via graphing two or more functions.  
