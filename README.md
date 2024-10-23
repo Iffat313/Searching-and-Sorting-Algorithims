@@ -7,6 +7,6 @@ In this repository, we will look at various algorithims and how we can search an
 
 3. **What is a run time?:** The run time determines how long an algorithim takes to execute. Specifically, based on the given input size in the algorithim. 
 
-4. **What is Big O notation?:** Big O notation is what allows us to express the run time in a mathmatical way. However, it doesn't look at the input size but rather all cases. It will measure the run time as if the input were gradually increasing!
+4. **What is Big O notation?:** Big O notation is what allows us to characterize the growth rate for the runtime of a function. Because the grwoth consider's a infinite amount of input, this is how the Big-o notation is able to consider the best and worst time complexity. 
 
 5. **What is Growth Rate?:** Growth rate refers to how quick the runtime increases or decreases as we gradually increase the input size or the value of the input. You can get a clear illustration of this via graphing two or more functions.  
