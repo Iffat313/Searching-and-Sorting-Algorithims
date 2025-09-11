@@ -9,4 +9,8 @@ In this repository, we will look at various algorithims and how we can search an
 
 4. **What is Big O notation?:** Big O notation is what allows us to characterize the growth rate for the runtime of a function. Because the grwoth consider's a infinite amount of input, this is how the Big-o notation is able to consider the best and worst time complexity. 
 
-5. **What is Growth Rate?:** Growth rate refers to how quick the runtime increases or decreases as we gradually increase the input size or the value of the input. You can get a clear illustration of this via graphing two or more functions.  
+5. **What is Growth Rate?:** Growth rate refers to how quick the runtime increases or decreases as we gradually increase the input size or the value of the input. You can get a clear illustration of this via graphing two or more functions.
+
+6. **What is a Pointer?:** A pointer is a type of variable that stores the memory address of another variable or some value of a datatype as its own value. A memory address is a series of characters/numbers that is assigned to any value/data created in your program in your RAM. 
+
+7. 
