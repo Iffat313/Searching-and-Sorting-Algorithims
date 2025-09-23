@@ -10,4 +10,7 @@ Below are some terms that define the twist I've added within the program:
 
 2. Friend function: A friend function is a nonmember function of the class but must be decalared within the class. It's main perk is that it allows us to access members under any type of attribute. 
 
-3. Dynaimc memory allocation: This means that we changing memory is quite flexbile, especailly during the run time. We use the operators new to execute and delete to remove avoid memory leaks. 
+
+3. Dynaimc memory allocation: This means that we changing memory is quite flexbile, especailly during the run time. We use the operators new to execute and delete to remove avoid memory leaks.
+
+4. There is a very slight mistake in the Pointers Review.pdf, new doesn't necessarily return a pointer but rather a memory address that is dynamically allocated for a given type, which is then stored in a corresponding pointer. 
