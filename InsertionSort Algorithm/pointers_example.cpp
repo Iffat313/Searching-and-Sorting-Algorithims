@@ -27,5 +27,7 @@ int main()
     cout << "This pointer stores the memory address of the variable x we created, thus the memory address of the pointer points to or stores is the same as the " << " " << ptr2 << endl;
     cout << "Here's the memory address of the variable x we created" << " "<< &x;
 
+    //something to note is that based on the contents stored at the memory address that the pointer points to, will be of that same data type.
+
     return 0;
 }
