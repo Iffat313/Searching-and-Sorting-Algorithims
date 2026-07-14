@@ -20,14 +20,14 @@ int main()
     int *ptr2 = &x; //created another pointer to an integer where it points to or stores the memory address of the variable x. In other words, the memory address that this pointer points to or stores is the same memory address of the variable x.
     
     
-    cout << "This pointer stores the memory address dynamically allocated of an integer type, not the memeory address of the variable x we created, thus they're different " << ptr1 << endl;
+    cout << "This pointer (ptr1) stores the memory address dynamically allocated of an integer type, not the memeory address of the variable x we created, thus they're different " << ptr1 << endl;
     cout << "Here's the memory address of the variable x we created" << " "<< &x << endl;
     
     cout << endl;
-    cout << "This pointer stores the memory address of the variable x we created, thus the memory address of the pointer points to or stores is the same as the " << " " << ptr2 << endl;
+    cout << "This pointer (ptr2) stores the memory address of the variable x we created, thus the memory address of the pointer points to or stores is the same as the " << " " << ptr2 << endl;
     cout << "Here's the memory address of the variable x we created" << " "<< &x;
 
-    //something to note is that based on the contents stored at the memory address that the pointer points to, will be of that same data type.
+    //something to note is that based on the memory address of the contents stored at the memory address that the pointer points to, said pointer will be of the same memroy address.
 
     return 0;
 }
